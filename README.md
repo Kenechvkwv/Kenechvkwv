@@ -1,4 +1,4 @@
-[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://some-url.dev/)
+<!--[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://some-url.dev/)-->
 ### Hi there, I'm <a href="https://github.com/Kenechvkwv">Kenechukwu</a> 👋
 
 Glad to see you here
