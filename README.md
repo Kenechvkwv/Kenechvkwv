@@ -28,5 +28,5 @@ Novel Addict</p>
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Kenechvkwv&show_icons=true&include_all_commits=true)](https://github.com/Kenechvkwv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&layout=compact)](https://github.com/Kenechvkwv/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Kenechvkwv&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/Kenechvkwv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&theme=dark&layout=compact)](https://github.com/Kenechvkwv/github-readme-stats)
