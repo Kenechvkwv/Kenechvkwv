@@ -6,5 +6,28 @@ Novel Addict</p>
 ## Some of my Github Statistics
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kenechvkwv alt=Kenechvkwv /> </p>
 
+## 🔧 Languages and Tools
+
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=f0f6fc&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=0769AD&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Materialize-informational?style=flat&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=6e40c9&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=f0f6fc&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
+![](https://img.shields.io//github/pipenv/locked/python-version)
+
+
+## 📈 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
+
+*NOTE: "Most used languages" does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
+
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kenechvkwv&show_icons=true&include_all_commits=true)](https://github.com/Kenechvkwv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&layout=compact)](https://github.com/Kenechvkwv/github-readme-stats)
