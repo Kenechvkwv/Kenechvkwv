@@ -15,9 +15,10 @@ Novel Addict</p>
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=6e40c9&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)
+<!--![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)-->
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Phaser3-informational?style=flat&color=238636&labelColor=21262d)
 
 
 ## Some of my Github Statistics
