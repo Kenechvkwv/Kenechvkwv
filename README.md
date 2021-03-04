@@ -25,5 +25,5 @@ Novel Addict</p>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kenechvkwv alt=Kenechvkwv /> </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenechvkwv&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&theme=nightowl)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
