@@ -24,11 +24,4 @@ Novel Addict</p>
 ## Some of my Github Statistics
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kenechvkwv alt=Kenechvkwv /> </p>
 
-## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenechvkwv&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
-
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Kenechvkwv&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/Kenechvkwv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&theme=dark&layout=compact)](https://github.com/Kenechvkwv/github-readme-stats)
