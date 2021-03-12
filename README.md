@@ -22,7 +22,6 @@ Novel Addict</p>
 
 
 ## Some of my Github Stats
-<p align=left> <img https://github-readme-stats.vercel.app/api?username=Kenechvkwv alt=Kenechvkwv /> </p>
 
 
 
