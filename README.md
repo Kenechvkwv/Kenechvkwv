@@ -25,5 +25,4 @@ Novel Addict</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv)](https://github.com/kenechvkwv/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kenechvkwv&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv&langs_count=10&theme=tokyonight)]()
+
