@@ -21,7 +21,7 @@ Novel Addict</p>
 ![](https://img.shields.io/badge/Phaser3-informational?style=flat&color=238636&labelColor=21262d)
 
 
-## Some of my Github Statistics
+## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kenechvkwv alt=Kenechvkwv /> </p>
 
 
