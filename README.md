@@ -22,8 +22,8 @@ Novel Addict</p>
 
 
 ## Some of my Github Stats
-<!--<p align=left> <img src=https://komarev.com/ghpvc/?username=Kenechvkwv alt=Kenechvkwv /> </p>-->
-https://github-readme-stats.vercel.app/api?username=Kenechvkwv
+<p align=left> <img https://github-readme-stats.vercel.app/api?username=Kenechvkwv alt=Kenechvkwv /> </p>
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kenechvkwv&count_private=true&theme=tokyonight&showicons=true)]()
