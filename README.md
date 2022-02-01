@@ -21,7 +21,7 @@ Novel Addict</p>
 ![](https://img.shields.io/badge/Phaser3-informational?style=flat&color=238636&labelColor=21262d)
 
 
-## Some of my Github Stats
+## Some of my Github Statistics
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv)](https://github.com/kenechvkwv/github-readme-stats)
