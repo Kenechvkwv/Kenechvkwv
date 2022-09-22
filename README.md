@@ -18,7 +18,7 @@ Novel Addict</p>
 <!--![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)-->
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/React-informational?style=flat&color=238636&labelColor=21262d)
+
 
 
 
