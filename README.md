@@ -1,5 +1,6 @@
 <!--[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://some-url.dev/)-->
-## Hey 👋, This is Kene Ubesie
+## Hey 👋, This is Kene Ubesie 
+![](https://komarev.com/ghpvc/?username=kenechvkwv&color=40c463&label=Profile+Views)
 [![Gmail Badge](https://img.shields.io/badge/-ubesiekc@gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ubesiekc@gmail)](mailto:ubesiekc@gmail) 
 [![Linkedin Badge](https://img.shields.io/badge/-keneubesie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kene-ubesie/)](https://www.linkedin.com/in/kene-ubesie/) [![Github Badge](https://img.shields.io/badge/-Kenechvkwv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kenechvkwv/)](https://www.github.com/Kenechvkwv/) [![Twitter Badge](https://img.shields.io/badge/-kenechvkwv-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/kenechvkwv/)](https://www.twitter.com/kenechvkwv/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/)](Kenechvkwv@github.io/) <p align='left'>Professional programmer. Amateur singer, guitarist...
 Novel Addict</p>
@@ -21,4 +22,5 @@ Novel Addict</p>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
 
+## 📈 GitHub Stats <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenechvkwv&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/> *NOTE: "Most used languages" does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.* <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
 
