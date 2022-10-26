@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-keneubesie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kene-ubesie/)](https://www.linkedin.com/in/kene-ubesie/) [![Github Badge](https://img.shields.io/badge/-Kenechvkwv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kenechvkwv/)](https://www.github.com/Kenechvkwv/) [![Twitter Badge](https://img.shields.io/badge/-kenechvkwv-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/kenechvkwv/)](https://www.twitter.com/kenechvkwv/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/)](Kenechvkwv@github.io/) <p align='left'>Professional programmer. Amateur singer, guitarist...
 Novel Addict</p>
 
-## 🔧 Languages and Toole
+## 🔧 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black)
