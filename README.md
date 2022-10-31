@@ -20,7 +20,7 @@ Novel Addict</p>
 ## 🔳 Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ## 📈 GitHub Stats <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenechvkwv&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/> *NOTE: "Most used languages" does not indicate my skill level, it's a github metric showing languages I have the most code, hosted publicly on github.* <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenechvkwv&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
