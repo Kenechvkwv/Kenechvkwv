@@ -1,7 +1,7 @@
 <!--[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://some-url.dev/)-->
 ## Hey 👋, This is Kene
 ![](https://komarev.com/ghpvc/?username=kenechvkwv&color=40c463&label=Profile+Views)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/)](Kenechvkwv@github.io/) <p align='left'>As a software sorcerer in the vibrant IT jungle, I've brewed up over three years of enchanting spells with front-end magic: Bootstrap, Tailwind, JavaScript, and React. I also dabble in the arcane arts of PHP and Laravel for backend sorcery. When I'm not coding, I moonlight as a design wizard with eight years of Photoshop conjuring. I'm on a quest to craft ingenious solutions and add a touch of magic to impactful projects, all while chasing excellence and learning in the mystical realm of tech. 🧙‍♂️✨</p>
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/)](Kenechvkwv@github.io/) <p align='left'>As a software sorcerer in the vibrant IT jungle, I've brewed up over four years of enchanting spells with front-end magic: Bootstrap, Tailwind, JavaScript, and React. I also dabble in the arcane arts of PHP and Laravel for backend sorcery. When I'm not coding, I moonlight as a design wizard with eight years of Photoshop conjuring. I'm on a quest to craft ingenious solutions and add a touch of magic to impactful projects, all while chasing excellence and learning in the mystical realm of tech. 🧙‍♂️✨</p>
 
 ## 🔧 Languages and Tools
 
