@@ -3,6 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=kenechvkwv&color=40c463&label=Profile+Views)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/)](Kenechvkwv@github.io/) <p align='left'>As a software sorcerer in the vibrant IT jungle, I've brewed up over four years of enchanting spells with front-end magic: Bootstrap, Tailwind, JavaScript, and React. I also dabble in the arcane arts of PHP and Laravel for backend sorcery. When I'm not coding, I moonlight as a design wizard with eight years of Photoshop conjuring. I'm on a quest to craft ingenious solutions and add a touch of magic to impactful projects, all while chasing excellence and learning in the mystical realm of tech. 🧙‍♂️✨</p>
 
+
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv&layout=compact&hide=html&count_private=true)](https://github.com/kenechvkwv/github-readme-stats)
+
 ## 🔧 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
