@@ -44,13 +44,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/kenechvkwv/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv&layout=compact&hide=html&count_private=true&theme=dark" alt="Top Languages" />
   </a>
-</div>
+</div> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa-pendrops&" alt="khalifa-pendrops" /></p>
 
 
 ---
