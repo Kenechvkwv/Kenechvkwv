@@ -53,15 +53,19 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <a href="https://github.com/kenechvkwv/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kenechvkwv&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/kenechvkwv/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenechvkwv&layout=compact&hide=html&count_private=true&theme=dark" alt="Top Languages" />
-  </a>
-</div>
+<h2 align="center">😂 Dev Humor</h2>
+<p align="center">
+  🚀 Why do programmers prefer dark mode?<br>
+  <b>Because light attracts bugs! 🐛</b>
+</p>
+<p align="center">
+  💻 How do you comfort a JavaScript bug?<br>
+  <b>You console it. 😆</b>
+</p>
+<p align="center">
+  🤖 Why was the function so calm?<br>
+  <b>Because it had no arguments. 😎</b>
+</p>
 
 ---
 
