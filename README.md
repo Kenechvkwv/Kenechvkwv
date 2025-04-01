@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>As a software sorcerer in the vibrant IT jungle</b>, I've brewed up over four years of enchanting spells with front-end magic: Tailwind, Alpine.js, jQuery, and React. I also wield the power of PHP and Laravel for backend sorcery. When I'm not coding, I moonlight as a design wizard with over ten years of Photoshop conjuring. I'm on a quest to craft ingenious solutions and add a touch of magic to impactful projects, all while chasing excellence and learning in the mystical realm of tech. 🧙‍♂️✨
+  <b>I'm HIM 🧙‍♂️✨
 </p>
 
 ---
