@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>I'm HIM 🧙‍♂️✨
+  <b>Him 🧙‍♂️✨
 </p>
 
 ---
