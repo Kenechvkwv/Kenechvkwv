@@ -1,7 +1,3 @@
-
-[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://github.com/kenechvkwv)
-
-
 <h1 align="center">Hi there, I'm Kene 👋</h1>
 
 <p align="center">
