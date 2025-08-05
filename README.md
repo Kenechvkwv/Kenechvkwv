@@ -1,79 +1,131 @@
-<!--[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://some-url.dev/)-->
-<h1 align="center">Hey 👋, I'm Kene</h1>
+<!-- Header Image (optional) -->
+<!--
+[![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://github.com/kenechvkwv)
+-->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenechvkwv&color=40c463&label=Profile+Views" alt="Profile Views" />
-  <a href="https://Kenechvkwv@github.io/">
-    <img src="https://img.shields.io/badge/portfolio-web-blue?style=flat&link=Kenechvkwv@github.io/" alt="Portfolio Badge" />
+<h1 align="center">Hi there, I'm Kene 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/kenechvkwv">
+    <img
+      src="https://komarev.com/ghpvc/?username=kenechvkwv&color=40c463&label=Profile+Views"
+      alt="Profile Views"
+    />
   </a>
-</div>
-
-<p align="center">
-  <b>Him 🧙‍♂️✨
+  <a href="https://kenechvkwv.github.io" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=githubpages"
+      alt="Portfolio Badge"
+    />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🎨 Frontend Stacks</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/alpine.js-%2323a8d7.svg?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-</div>
-
----
-
-<h2 align="center">🛠 Backend Stacks</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-
-</div>
-
----
-
-<h2 align="center">📚 Libraries & Tools</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-</div>
-
----
-
-<h2 align="center">🔳 Frameworks</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</div>
-
----
-
-<h2 align="center">😂 Dev Humor</h2>
 <p align="center">
-  🚀 Why do programmers prefer dark mode?<br>
-  <b>Because light attracts bugs! 🐛</b>
-</p>
-<p align="center">
-  💻 How do you comfort a JavaScript bug?<br>
-  <b>You console it. 😆</b>
-</p>
-<p align="center">
-  🤖 Why was the function so calm?<br>
-  <b>Because it had no arguments. 😎</b>
+  🧙‍♂️ <strong>Frontend Wizard | Backend Sorcerer | Pixel Crafter</strong> <br />
+  Building magical interfaces and breathing life into web apps.
 </p>
 
+--- ## 🎨 Frontend Stack
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+  <img
+    src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+  <img
+    src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Alpine.js-23A8D7?style=for-the-badge&logo=alpine.js&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+  />
+</p>
+
+--- ## 🛠 Backend Stack
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"
+  />
+</p>
+
+--- ## 🧰 Libraries & Tools
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"
+  />
+</p>
+
+--- ## 📦 Frameworks & Styling
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+  />
+</p>
+
+
+<p align="center">
+  <strong>💻 How do you comfort a JavaScript bug?</strong><br />
+  You <code>console</code> it. 😆
+</p>
+
+<p align="center">
+  <strong>🤖 Why was the function so calm?</strong><br />
+  Because it had no arguments. 😎
+</p>
+
+--- ## ✨ Fun Fact
+
+<p align="center">
+  When I’m not debugging or designing, you’ll likely find me lost in a book or
+  brewing creative spells in Photoshop. 📚✨
+</p>
+
 ---
 
-<h2 align="center">✨ Fun Fact</h2>
 <p align="center">
-  When I’m not coding or designing, you’ll likely find me brewing a potion of creativity with a good book or perfecting my Photoshop wizardry. ✨📚
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=kenechvkwv&theme=react&hide_border=true"
+  />
 </p>
