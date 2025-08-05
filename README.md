@@ -1,6 +1,6 @@
-<!--
+
 [![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://github.com/kenechvkwv)
--->
+
 
 <h1 align="center">Hi there, I'm Kene 👋</h1>
 
@@ -26,7 +26,7 @@
   Building magical interfaces and breathing life into web apps.
 </p>
 
-<h3> 🎨 Frontend Stack </h3>
+<h3 align="center"> 🎨 Frontend Stack </h3>
 
 <p align="center">
   <img
@@ -58,7 +58,7 @@
   />
 </p>
 
-<h3> 🛠 Backend Stack </h3>
+<h3 align="center"> 🛠 Backend Stack </h3>
 
 <p align="center">
   <img
@@ -78,7 +78,7 @@
   />
 </p>
 
-<h3> 🧰 Libraries & Tools </h3>
+<h3 align="center"> 🧰 Libraries & Tools </h3>
 
 <p align="center">
   <img
@@ -92,7 +92,7 @@
   />
 </p>
 
-<h3> 📦 Frameworks & Styling </h3>
+<h3 align="center"> 📦 Frameworks & Styling </h3>
 
 <p align="center">
   <img
@@ -114,17 +114,11 @@
   Because it had no arguments. 😎
 </p>
 
-<h3> ✨ Fun Fact </h3>
+<h3 align="center"> ✨ Fun Fact </h3>
 
 <p align="center">
   When I’m not debugging or designing, you’ll likely find me lost in a book or
   brewing creative spells in Photoshop. 📚✨
 </p>
 
----
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=kenechvkwv&theme=react&hide_border=true"
-  />
-</p>
