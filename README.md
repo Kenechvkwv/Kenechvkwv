@@ -1,4 +1,3 @@
-<!-- Header Image (optional) -->
 <!--
 [![Header](https://avatars.githubusercontent.com/u/49237742?s=400&u=73d9f2e744a04b17927062e4c68693c80c8c32dd&v=4 "Header")](https://github.com/kenechvkwv)
 -->
@@ -27,7 +26,7 @@
   Building magical interfaces and breathing life into web apps.
 </p>
 
---- ## 🎨 Frontend Stack
+<h3> 🎨 Frontend Stack </h3>
 
 <p align="center">
   <img
@@ -59,7 +58,7 @@
   />
 </p>
 
---- ## 🛠 Backend Stack
+<h3> 🛠 Backend Stack </h3>
 
 <p align="center">
   <img
@@ -79,7 +78,7 @@
   />
 </p>
 
---- ## 🧰 Libraries & Tools
+<h3> 🧰 Libraries & Tools </h3>
 
 <p align="center">
   <img
@@ -93,7 +92,7 @@
   />
 </p>
 
---- ## 📦 Frameworks & Styling
+<h3> 📦 Frameworks & Styling </h3>
 
 <p align="center">
   <img
@@ -115,7 +114,7 @@
   Because it had no arguments. 😎
 </p>
 
---- ## ✨ Fun Fact
+<h3> ✨ Fun Fact </h3>
 
 <p align="center">
   When I’m not debugging or designing, you’ll likely find me lost in a book or
