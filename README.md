@@ -7,18 +7,13 @@
       alt="Profile Views"
     />
   </a>
-  <a href="https://kenechvkwv.github.io" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=githubpages"
-      alt="Portfolio Badge"
-    />
-  </a>
+ 
 </p>
 
 ---
 
 <p align="center">
-  🧙‍♂️ <strong>Frontend Wizard | Backend Sorcerer | Pixel Crafter</strong> <br />
+  🧙‍♂️ <strong>Frontend Wizard | Backend Sorcerer <br />
   Building magical interfaces and breathing life into web apps.
 </p>
 
